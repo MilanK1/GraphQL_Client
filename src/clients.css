@@ -1,0 +1,12 @@
+.clients{
+    margin: 2px;
+    
+
+}
+li{
+    cursor: pointer;
+    
+}
+li:hover{
+    background-color: blanchedalmond;
+}
